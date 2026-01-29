@@ -1,0 +1,132 @@
+{
+  "common": {
+    "loading": "Cargando...",
+    "language": "Idioma"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "billing": "Facturación",
+    "bio": "Biografía"
+  },
+  "home": {
+    "title": "Una Agencia de Consultoría Transfronteriza",
+    "subtitle": "Trans",
+    "border": "fronteriza",
+    "consulting": "Agencia de Consultoría",
+    "description1": "En el entorno acelerado y multicultural de hoy, el desarrollo empresarial y la comunicación estratégica son esenciales para cualquier organización que busque crecer y prosperar en EE.UU. y México. Nuestro equipo trae una profunda experiencia en administración de negocios, gestión de proyectos, branding, marketing digital y desarrollo full-stack, equipando a organizaciones sin fines de lucro y empresas de beneficio con las herramientas para crecer y prosperar.",
+    "description2": "Como expertos en la materia, ofrecemos consultoría para alinear la misión con la estrategia, mejorar el compromiso y fortalecer las iniciativas de recaudación de fondos. Entendemos los desafíos únicos que enfrentan las organizaciones sin fines de lucro y proporcionamos soluciones personalizadas que generan un impacto comunitario duradero.",
+    "description3": "Trabajamos con startups y empresas en crecimiento para desbloquear oportunidades a través del desarrollo empresarial inteligente y plataformas digitales optimizadas, sirviéndolas de la mejor manera. Nuestros servicios de comunicación estratégica ayudan a refinar su voz, alinear los mensajes con los objetivos y conectarse auténticamente con su audiencia.",
+    "description4": "A través de nuestras estrategias de marca y marketing, buscamos amplificar la visibilidad, dar forma al comportamiento del consumidor y comandar presencia, ya sea que esté lanzando una campaña social o un producto escalable. Desde identidades corporativas elegantes hasta una dirección creativa culturalmente rica, entregamos con claridad y propósito.",
+    "description5": "Ya sea que seas una organización sin fines de lucro impulsando el cambio comunitario o una empresa empujando límites, nos asociamos contigo para elevar tu misión, maximizar tu mensaje y entregar resultados significativos.",
+    "tagline": "En pocas palabras… ¡Let's make something happen!"
+  },
+  "services": {
+    "businessDevelopment": "Desarrollo Empresarial",
+    "strategicCommunications": "Comunicaciones Estratégicas",
+    "nonProfitDevelopment": "Desarrollo Sin Fines de Lucro",
+    "portfolio": "Cartera"
+  },
+  "serviceDetails": {
+    "businessDevelopment": {
+      "title": "Desarrollo Empresarial",
+      "description1": "En Connekta, fusionamos la innovación con la experiencia para ofrecer soluciones de desarrollo empresarial adaptadas a sus objetivos únicos. Nuestros servicios van más allá del desarrollo de tecnología, ofreciendo campañas de marketing dinámicas, comerciales de audio atractivos, sesiones fotográficas profesionales y eventos comunitarios memorables. Desde recaudaciones de fondos locales y mezcladores de empresas hasta eventos de Gala y lanzamientos de productos, creamos estrategias que cautivan a su audiencia, abrazan el compromiso y crean conexiones auténticas que dejan un impacto duradero.",
+      "description2": "Empoderamos a organizaciones sin fines de lucro y startups para que logren mejores resultados, asesorando a sus departamentos y fortaleciendo su capacidad para implementar y optimizar estrategias cualitativas y cuantitativas. Al ayudar a los equipos interfuncionales a comprender y aprovechar métricas de rendimiento e información basada en datos, guiamos a las organizaciones en la evaluación de su impacto, la identificación de oportunidades de crecimiento y la alineación de sus esfuerzos con oportunidades de financiamiento.",
+      "description3": "Con una sólida formación en tecnología, desarrollamos aplicaciones móviles y sitios web personalizados, priorizando la experiencia del usuario y amplificando la visibilidad de la marca. Nuestras soluciones cuentan con diseños intuitivos y funcionalidad fluida, asegurando que sus plataformas digitales resuenen con su audiencia y entreguen resultados medibles.",
+      "description4": "Con dominio bilingüe y amplia experiencia en EE.UU. y México, traemos una perspectiva fresca a las operaciones internas y externas. Ya sea que su objetivo sea promover iniciativas de compromiso social y cívico o establecer una presencia agresiva en el mercado para impulsar las ventas de productos, proporcionamos claridad, estrategias accionables y ejecución efectiva para lograr sus hitos.",
+      "description5": "¿Está listo para empoderar a su equipo, fortalecer el impacto de su organización sin fines de lucro, llegar a mercados biculturales, o crear ese sitio web o aplicación móvil que ha estado posponiendo?",
+      "description6": "Contáctenos hoy para descubrir cómo podemos ayudarle a lograr sus objetivos empresariales, de marketing, de defensa y comunitarios."
+    },
+    "strategicCommunications": {
+      "title": "Comunicaciones Estratégicas",
+      "description1": "Entendemos el poder de los medios y las plataformas sociales en línea para amplificar su mensaje e impulsar un compromiso impactante. Nuestros servicios de Comunicaciones Estratégicas están diseñados para elevar sus objetivos creando una narrativa cohesiva e influyente que resuena con su audiencia objetivo y maximiza su alcance en mercados de habla inglesa y española.",
+      "description2": "Al aprovechar alianzas con medios de comunicación, mensajeros creíbles y líderes comunitarios, posicionamos su marca, misión o iniciativa al frente de la conciencia pública. Nuestras estrategias incluyen la creación de contenido atractivo, el diseño de campañas en redes sociales y el uso de análisis de datos para identificar tendencias y oportunidades de crecimiento.",
+      "description3": "Las plataformas en línea son cruciales para dar forma a las opiniones y construir comunidades en la era digital. Por lo tanto, nos especializamos en la gestión de redes sociales y estrategias de compromiso en tiempo real que abrazan conexiones auténticas y expanden su impacto.",
+      "description4": "Nuestro enfoque se centra en persuadir audiencias, abrazar el compromiso, construir relaciones sólidas, motivar e inspirar acción, y promover la conciencia. Desde campañas en línea hasta diálogos significativos con su audiencia, le ayudamos a crear una presencia digital que se alinea con sus objetivos e impulsa resultados medibles.",
+      "description5": "Ya sea promoviendo una iniciativa sin fines de lucro, lanzando un nuevo producto o abogando por un cambio social, nuestro enfoque de Comunicaciones Estratégicas garantiza que su mensaje sea escuchado, genere impacto y motive a la acción.",
+      "description6": "En Connekta, convertimos su visión en una voz poderosa que inspira acción y transforma individuos y comunidades."
+    },
+    "nonProfitDevelopment": {
+      "title": "Desarrollo Sin Fines de Lucro",
+      "description1": "En el sector sin fines de lucro, nuestros servicios están diseñados para agencias públicas y organizaciones comunitarias comprometidas con promover la concienciación pública, mejorar los ciclos de pobreza y crear oportunidades laborales para personas afectadas por el sistema judicial, jóvenes exalumnos de hogares de acogida y pequeñas empresas y emprendedores en comunidades desatendidas. No solo consultamos desde fuera; caminamos junto a usted y su equipo de liderazgo, aportando una profunda comprensión de lo que significa el cambio sobre el terreno.",
+      "description2": "Con una trayectoria que abarca el compromiso directo con la comunidad, políticas laborales, gestión de organizaciones sin fines de lucro y defensa comunitaria, aportamos humildad cultural, marcos informados por el trauma y un compromiso genuino en cada colaboración que formamos. Sabemos cómo traducir las necesidades comunitarias en estrategias accionables y cómo comunicarnos de manera efectiva sin comprometer la autenticidad.",
+      "description3": "También apoyamos a las organizaciones en el diseño de programas que empoderan a personas con experiencia vivida, construyen redes de mentoría y fomentan la credibilidad en espacios de liderazgo tanto formales como informales.",
+      "description4": "Además, colaboramos con organizaciones para diseñar programas que eleven a personas con experiencia vivida, fomenten caminos de mentoría y fortalezcan la credibilidad del liderazgo tanto en entornos formales como en bases comunitarias. Nuestro objetivo es ayudarle a servir a las comunidades y a nutrir y desarrollar líderes desde dentro de ellas.",
+      "description5": "Ya sea que esté desarrollando una nueva iniciativa, fortaleciendo su alcance o navegando por un cambio institucional, le ofrecemos herramientas prácticas, conocimientos en tiempo real y una filosofía centrada en las personas que impulsa el impacto y fomenta la confianza.",
+      "description6": "Juntos, creamos resultados transformadores, desde el vecindario hasta la sala de juntas."
+    }
+  },
+  "bio": {
+    "title": "Sobre Nosotros",
+    "description1": "Joseph-Wesley D. es más que un estratega empresarial; es un testimonio de resiliencia, visión y propósito. Como un orgulloso LatinX nativo de San Diego, Joseph-Wesley trae experiencia vivida, búsqueda académica y un compromiso inquebrantable con el impacto social a cada empresa que lidera.",
+    "description2": "Como niño, Joseph-Wesley creció en un mundo adulto donde las necesidades básicas tenían que ser ganadas y los privilegios estaban lejos de estar garantizados. Los extraños a menudo se convertían en familia, y sus hermanos compartían un hilo doloroso de abuso, negligencia y frecuentes enredos con el sistema de justicia. Inmerso en entornos moldeados por afiliaciones de pandillas y violencia callejera, rápidamente aprendió los sistemas no hablados de supervivencia, lealtad, negociación y riesgo. Joseph-Wesley fue criado en el sistema de acogida.",
+    "description3": "En lugar de permitir que esas circunstancias lo definieran, Joseph-Wesley se basó en ellas para desarrollar un agudo sentido de estrategia, inteligencia emocional y adaptabilidad, habilidades que ahora sirven como sus mayores activos para navegar empresas comerciales complejas. Su experiencia vivida le da una lente rara y poderosa a través de la cual entender el comportamiento humano, el liderazgo bajo presión y las reglas no estructuradas que gobiernan tanto las calles como la sala de juntas.",
+    "description4": "A pesar de la vida de Joseph-Wesley, marcada por la inestabilidad, fue dentro de este caos que cultivó la empatía, la determinación y el liderazgo que ahora definen su trabajo. En la búsqueda de una licenciatura en Administración de Empresas en la Universidad Chapman, obtuvo insights esenciales sobre liderazgo, crecimiento estratégico y excelencia operacional, herramientas que ahora usa para defender el acceso equitativo y el cambio transformacional.",
+    "description5": "Como Director de Connekta Solutions, una organización 501(c)(3) bajo la agencia fiscal de Access Inc, una organización de desarrollo laboral, Joseph-Wesley lidera con corazón y precisión, ofreciendo servicios programáticos que fusionan el desarrollo comunitario, el emprendimiento y la innovación digital. Su trabajo abarca estrategia empresarial, desarrollo laboral, defensa comunitaria, alianzas transfronterizas e iniciativas de impacto social.",
+    "description6": "El espíritu emprendedor de Joseph-Wesley, combinado con su experiencia vivida y conjunto de habilidades profesionales, alimenta cada proyecto que toca. Ya sea mentorizando adultos jóvenes, construyendo alianzas estratégicas o diseñando iniciativas centradas en la comunidad, permanece enfocado en convertir la lucha en estrategia y el potencial en rendimiento.",
+    "description7": "Si está buscando un consultor que combine insight del mundo real con perspicacia empresarial y un compromiso arraigado con el propósito, Joseph-Wesley está listo para ayudarle a liderar un cambio significativo y medible."
+  },
+  "billing": {
+    "title": "Facturación",
+    "description1": "Para entender mejor las necesidades de su proyecto, proporcionamos una consulta inicial como servicio complementario; las sesiones posteriores se facturarán a una tarifa por hora. Contacte nuestra oficina hoy para más detalles sobre cómo proceder.",
+    "description2": "Cuando esté listo, por favor seleccione su método de pago preferido de las opciones a continuación y siga las instrucciones en pantalla.",
+    "emailIntro1": "Para iniciar el servicio, por favor envía un correo a",
+    "emailIntro2": "con la siguiente información y en el asunto de tu correo coloca",
+    "emailSubject": "\"Solicitando Servicios de Consultoría\"",
+    "intakeNote": "Recibirás un breve formulario de ingreso, seguido de un enlace de calendario para programar tu consulta de cortesía de 1 hora y discutir las metas y necesidades de tu proyecto.",
+    "bulletItems": {
+      "fullName": "Tu Nombre Completo",
+      "contactInfo": "Información de Contacto",
+      "companyName": "Nombre de la Compañía / Agencia",
+      "companyWebsite": "Sitio Web de la Compañía / Agencia",
+      "projectDesc": "Descripción Breve de Tu Proyecto"
+    },
+    "pricing": {
+      "branding": "Branding y Diseño",
+      "workshop": "Facilitador de Talleres",
+      "technical": "Desarrollo Técnico",
+      "event": "Anfitrión / Presentador de Eventos",
+      "consultation": "Consulta 1-a-1"
+    },
+    "priceValues": {
+      "branding": "$65/h",
+      "workshop": "$625/h",
+      "technical": "$85/h",
+      "event": "$2,500 (bloque de 4h)",
+      "consultation": "$175/h (bloque de 2h)"
+    },
+    "pricingDetails": {
+      "branding": [
+        "Diseño gráfico",
+        "Identidad de marca cohesiva",
+        "Diseño de aplicaciones web y móviles"
+      ],
+      "workshop": [
+        "Departamentos administrativos",
+        "Programas de para organizaciones sin fines de lucro",
+        "Oficiales de libertad condicional, trabajadores sociales y de libertad vigilada"
+      ],
+      "technical": [
+        "Informe de análisis SEO",
+        "Campaña de marketing SEO",
+        "Mantenimiento técnico",
+        "Gestión de proyectos técnicos",
+        "Desarrollo de sitios web y aplicaciones móviles"
+      ],
+      "event": [
+        "Eventos de recaudación de fondos",
+        "Eventos privados",
+        "Ceremonias de gala",
+        "Eventos corporativos"
+      ],
+      "consultation": [
+        "Consulta complementaria de 1 hora",
+        "Consultas continuas facturadas a tarifa regular"
+      ]
+    }
+  },
+  "portfolio": {
+    "exit": "Salida",
+    "page": "Página"
+  }
+}

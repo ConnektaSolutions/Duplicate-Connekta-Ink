@@ -1,0 +1,131 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "language": "Language"
+  },
+  "navigation": {
+    "home": "Home",
+    "services": "Services",
+    "billing": "Billing",
+    "bio": "Bio"
+  },
+  "home": {
+    "title": "A Cross-border Consulting Agency",
+    "subtitle": "Cross",
+    "border": "border",
+    "consulting": "Consulting Agency",
+    "description1": "In today's fast-paced, multi-cultural environment, business development and strategic communication are essential for any organization aiming to grow and thrive in the U.S.A. and Mexico. Our team brings deep expertise in business administration, project management, branding, digital marketing, and full-stack development, equipping both mission-driven organizations and for-profit enterprises with the tools to grow and thrive.",
+    "description2": "As subject matter experts, we offer consultation to align mission with strategy, improve engagement, and strengthen fundraising initiatives. We understand the unique challenges non-profits face and provide tailored solutions that deliver lasting community impact.",
+    "description3": "We work with startups and growing businesses to unlock opportunities through smart business development and optimized digital platforms, serving them best. Our strategic communication services help refine your voice, align messaging with goals, and connect authentically with your audience.",
+    "description4": "Through our branding and marketing strategies, we aim to amplify visibility, shape consumer behavior, and command presence, whether you're launching a social campaign or a scalable product. From sleek corporate identities to a culturally rich creative direction, we deliver with clarity and purpose.",
+    "description5": "Whether you're a nonprofit driving community change or a business pushing boundaries, we partner with you to elevate your mission, maximize your message, and deliver meaningful results.",
+    "tagline": "En pocas palabras… ¡Let's make something happen!"
+  },
+  "services": {
+    "businessDevelopment": "Business Development",
+    "strategicCommunications": "Strategic Communications",
+    "nonProfitDevelopment": "Non-Profit Development",
+    "portfolio": "Portfolio"
+  },
+  "serviceDetails": {
+    "businessDevelopment": {
+      "title": "Business Development",
+      "description1": "At Connekta, we fuse innovation with expertise to deliver business development solutions tailored to your unique goals. Our services go beyond the development of technology, offering dynamic marketing campaigns, engaging audio commercials, professional photo shoots, and memorable community events. From local fundraisers and company mixers to Gala events and product launches, we craft strategies that captivate your audience, embrace engagement, and create authentic connections that leave a lasting impact.",
+      "description2": "We empower nonprofits and startups to achieve greater results by consulting with departments and enhancing their ability to implement and optimize qualitative and quantitative strategies. By helping cross-functional teams understand and leverage performance metrics and data-driven insights, we guide organizations in assessing their impact, identifying growth opportunities, and aligning their efforts with funding opportunities. ",
+      "description3": "With a strong background in technology, we develop custom mobile apps and websites, prioritizing user experience and amplifying brand visibility. Our solutions feature intuitive designs and seamless functionality, ensuring your digital platforms resonate with your audience and deliver measurable results.",
+      "description4": "With bilingual proficiency and extensive experience in the U.S.A. and Mexico, we bring a fresh perspective to internal and external operations. Whether your goal is to promote social and civic engagement initiatives or establish an aggressive market presence to boost product sales, we provide clarity, actionable strategies, and effective execution to achieve your milestones.",
+      "description5": "Are you ready to empower your team, strengthen your nonprofit's impact, reach bi-cultural markets, or create that website or mobile app you’ve been procrastinating on?",
+      "description6": "Contact us today to discover how we can help you achieve your business, marketing, advocacy, and community objectives."
+    },
+    "strategicCommunications": {
+      "title": "Strategic Communications",
+      "description1": "We understand the power of media and online social platforms to amplify your message and drive impactful engagement. Our Strategic Communications services are designed to elevate your objectives by creating a cohesive and influential narrative that resonates with your target audience and maximizes your reach in English and Spanish-speaking markets.",
+      "description2": "By leveraging partnerships with media outlets, credible messengers, and community leaders, we position your brand, mission, or initiative at the forefront of public awareness. Our strategies include crafting compelling content, designing social media campaigns, and utilizing data analytics to identify trends and opportunities for growth.",
+      "description3": "Online platforms play a crucial role in shaping opinions and building communities in the digital age. Therefore, we specialize in social media management and real-time engagement strategies that embrace authentic connections and expand your impact.",
+      "description4": "Our approach focuses on persuading audiences, embracing engagement, building strong relationships, motivating and inspiring action, and promoting awareness. From online campaigns to meaningful dialogues with your audience, we help you create a digital presence that aligns with your goals and drives measurable outcomes.",
+      "description5": "Whether it's promoting a non-profit initiative, launching a new product, or advocating for social change, our Strategic Communications approach ensures your message is heard, resonates, and acted upon.",
+      "description6": "At Connekta, we bring your vision to life as a powerful voice that inspires action and transforms individuals and communities."
+    },
+    "nonProfitDevelopment": {
+      "title": "Non-Profit Development",
+      "description1": "In the non-profit sector, our services are designed for public agencies and community-based organizations committed to advancing public awareness, improving cycles of poverty, and providing opportunities for small businesses and entrepreneurs in underserved communities. We don't just consult from the outside; we walk alongside you and your leadership team, bringing a deep understanding of what change looks like on the ground.",
+      "description2": "With a background that spans direct community engagement, workforce policy, nonprofit management, and community advocacy, we bring cultural humility, trauma-informed frameworks, and commitment to every partnership we form. We understand how to translate community needs into actionable strategies and how to communicate effectively without compromising authenticity.",
+      "description3": "We also support organizations in designing programs that empower the foster care community, build mentorship pipelines, and cultivate credibility in both formal and informal leadership spaces. We collaborate with organizations to design programs that uplift individuals with lived experience, embrace mentorship pathways, and strengthen leadership credibility in both, formal and grassroots settings. Our goal is to help you serve communities and nurture and develop leaders from within them.",
+      "description4": "Whether you're developing a new initiative, strengthening your outreach, or navigating institutional change, we provide practical tools, real-time insights, and a people-first philosophy that drives impact and embraces trust.",
+      "description5": "Together, we create transformational outcomes, from the neighborhood to the boardroom."
+    }
+  },
+  "bio": {
+    "title": "About Us",
+    "description1": "Joseph-Wesley D. is more than a business strategist; he is a testament to resilience, vision, and purpose. As a proud LatinX native of San Diego, Joseph-Wesley brings lived experience, academic pursuit, and an unwavering commitment to social impact into every venture he leads.",
+    "description2": "As a child, Joseph-Wesley grew up in an adult world where basic necessities had to be earned, and privileges were far from guaranteed. Strangers often became family, and his siblings shared a painful thread of abuse, neglect, and frequent entanglements with the justice system. Immersed in environments shaped by gang affiliations and street violence, he quickly learned the unspoken systems of survival, loyalty, negotiation, and risk. Joseph-Wesley was raised in foster care.",
+    "description3": "Rather than allowing those circumstances to define him, Joseph-Wesley drew on them to develop an acute sense of strategy, emotional intelligence, and adaptability, skills that now serve as his greatest assets in navigating complex business ventures. His lived experience gives him a rare and powerful lens through which to understand human behavior, leadership under pressure, and the unstructured rules that govern both the streets and the boardroom.",
+    "description4": "In pursuit of a Bachelor's degree in Business Administration at Chapman University, he gained essential insights into leadership, strategic growth, and operational excellence, tools he now uses to champion equitable access and transformative change as he leads with heart and precision.",
+    "description5": "In the U.S.A., he collaborates with organizations that offer services such as case management, promotions and marketing support, and consulting for small businesses and entrepreneurs. In Mexico, he's partnering with schools in underserved communities to provide educational resources and nutritious meals for children. His work spans business strategy, workforce development, community advocacy, cross-border partnerships, and social impact initiatives.",
+    "description6": "Joseph-Wesley's entrepreneurial spirit, paired with his lived experience and professional skill set, fuels every project he touches. Whether mentoring young adults, building strategic alliances, or designing community-first initiatives, he remains laser-focused on turning struggle into strategy and potential into performance.",
+    "description7": "If you're seeking a consultant who combines real-world insight with business acumen and a deep-rooted commitment to purpose, Joseph-Wesley is ready to help you lead meaningful, measurable change."
+  },
+  "billing": {
+    "title": "Billing",
+    "description1": "In order to better understand your project needs, we provide an initial consultation as a complimentary service; subsequent sessions will be billed at an hourly rate. Contact our office today for further details on how to move forward.",
+    "description2": "When you're ready, please select your preferred payment method from the options below and follow the on-screen instructions.",
+    "emailIntro1": "To initiate service, please email",
+    "emailIntro2": "with the following information and within the subject line of your email place",
+    "emailSubject": "\"Requesting Consultation Services\"",
+    "intakeNote": "You'll receive a quick intake form, followed by a calendar link to book your complimentary 1-hour consultation to discuss your project goals and needs.",
+    "bulletItems": {
+      "fullName": "Your Full Name",
+      "contactInfo": "Contact Information",
+      "companyName": "Company / Agency Name",
+      "companyWebsite": "Company / Agency Website",
+      "projectDesc": "Brief Description of Your Project"
+    },
+    "pricing": {
+      "branding": "Branding & Design",
+      "workshop": "Workshop Facilitator",
+      "technical": "Technical Development",
+      "event": "Event Host / Presenter",
+      "consultation": "1-on-1 Consultation"
+    },
+    "priceValues": {
+      "branding": "$65/hr",
+      "workshop": "$625/hr",
+      "technical": "$85/hr",
+      "event": "$2,500 (4hr block)",
+      "consultation": "$175/hr (2hr block)"
+    },
+    "pricingDetails": {
+      "branding": [
+        "Graphic Design",
+        "Cohesive Branding",
+        "Web and Mobile App Design"
+      ],
+      "workshop": [
+        "Admin Departments",
+        "Non-Profit Programs",
+        "Probation/Parole/ Social Workers"
+      ],
+      "technical": [
+        "SEO Analysis Report",
+        "SEO Marketing Campaign",
+        "Technical Maintenance",
+        "Technical Project Management",
+        "Website & Mobile App Development"
+      ],
+      "event": [
+        "Fundraisers",
+        "Private Events",
+        "Gala Ceremonies",
+        "Company Events"
+      ],
+      "consultation": [
+        "1 hour Complimentary Consultation",
+        "Ongoing Consultation Billed at Regular Rate"
+      ]
+    }
+  },
+  "portfolio": {
+    "exit": "Exit",
+    "page": "Page"
+  }
+}

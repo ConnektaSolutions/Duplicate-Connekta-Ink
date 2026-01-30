@@ -183,8 +183,16 @@ const EnrollmentApplication = () => {
         });
 
         if (!response.ok) {
-          const errorData = await response.json();
-          throw new Error(errorData.message || "Failed to send email");
+          const text = await response.text();
+          let errorMessage = "Failed to send email";
+          try {
+            const errorData = JSON.parse(text);
+            errorMessage = errorData.message || errorMessage;
+          } catch {
+            console.error("Failed to parse error response JSON:", text);
+            errorMessage = `Server Error: ${response.status} ${response.statusText}`;
+          }
+          throw new Error(errorMessage);
         }
 
         console.log("Email sent successfully!");
@@ -193,7 +201,9 @@ const EnrollmentApplication = () => {
         window.scrollTo(0, 0);
       } catch (emailError) {
         console.error("Email sending error:", emailError);
-        alert("Failed to send application. Please try again.");
+        alert(
+          `Failed to send application. ${emailError.message || "Please try again."}`,
+        );
       }
     }
     setIsSubmitting(false);
